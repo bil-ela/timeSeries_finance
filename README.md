@@ -9,4 +9,4 @@ On retrouve joint à ce repository :
 
 
 
-travail menée par A.Tamoyan et moi-même.
+travail mené par A.Tamoyan et moi-même.
