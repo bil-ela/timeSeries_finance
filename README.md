@@ -6,3 +6,7 @@
 Projet de fin d'apprentissage sur les séries temporelles traitant du domaine de la finance (automobile plus précisemment).
 On retrouve joint à ce repository :
 - Un fichier .ipynb recensant toute l'étude menée sur les séries temporelles
+
+
+
+travail menée par A.Tamoyan et moi-même.
